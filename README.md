@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> to make it p
 ----
 
   <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
+  <a href="https://github.com/Sahad4/Zaramwol ">
     <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
@@ -70,7 +70,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/sahad4/Zaramwol
+$ git clone https://github.com/Sahad4/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -80,7 +80,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/sahad4/Zaramwol
+$ git clone https://github.com/Sahad4/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm i
