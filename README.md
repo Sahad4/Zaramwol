@@ -80,7 +80,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/sahad4/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm i
