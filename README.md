@@ -70,7 +70,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/sahad4/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
